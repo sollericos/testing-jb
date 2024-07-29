@@ -35,3 +35,6 @@ sphinx:
   config:
     bibtex_reference_style: author_year
 #    bibtex_bibfiles: "your_reference_file.bib"
+
+launch_buttons:
+  binderhub_url: "https://mybinder.org" 
